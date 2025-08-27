@@ -1,0 +1,40 @@
+# 🎓 Education
+
+**Master of Business Administration**   
+[University Canada West](https://www.ucanwest.ca/) | *2024 - Present*
+
+**Bachelors of Computer Science and Technology**   
+[Sagi Ramakrsihnam Raju Engineering](https://srkrec.edu.in/college_profile.php) | *2018 - 2022*.  
+
+# 💼 Experience
+
+**Client Advisor** 
+[Australian Boot Company](https://australianboot.com/?srsltid=AfmBOooeO9AgxSYS6tuQ3cQbzbgfLlrMWBzeGZFlwOZwDEb1mGgexPEo) | *September 2024 - Present*.  
+• Managed online and in-store customer orders, ensuring accurate fulfillment and smooth coordination between inventory and sales teams.   
+• Delivered personalized product recommendations, improving customer satisfaction and contributing to a 15–20% increase in repeat business.   
+
+**Business Analyst** 
+[Saptharishi Solutions](http://saptarishisolutions.in/) | *October 2022 - Jan 2024*.  
+• Analyzed procurement and workflow processes to identify inefficiencies, leading to a 15% improvement in operational efficiency.   
+• Created dashboards and reports that supported data-driven decisions, enhancing customer satisfaction and business performance.   
+
+**Programmer Analyst Trainee** 
+[Cognizant](https://www.cognizant.com/us/en) | *February 2022 - September 2022*.  
+• Contributed to the development and maintenance of enterprise systems, enhancing internal workflow efficiency and interdepartmental data accuracy.   
+• Collaborated with cross-functional teams to gather requirements and deliver system enhancements, showcasing adaptability and problem-solving under tight timelines.   
+
+**Operations Manager** 
+[Indian Oil Corporation](https://locator.iocl.com/indianoil-sri-sai-balaji-filling-) | *January 2020 - August 2022*.  
+• Led a team of 10 to optimize fuel inventory management and vendor scheduling, reducing stock shortages by 15% and improving operational flow.   
+• Resolved customer issues promptly while mentoring staff, boosting customer satisfaction scores and increasing repeat
+business by 20%.
+
+# 🧠 Technical Skills
+- **Productivity & Visualization**: Microsoft office Suite (Excel, Word, Outlook)   
+- **ERP Software**: SAP   
+- **Data Analysis & Collaboration**: Tableau, Microsoft Excel, SharePoint.  
+- **Project & Issue Tracking Tools**: JIRA, Confluence, ServiceNow.  
+- **Microsoft Office Platforms**: Amazon AWS, EC2, Hadoop, Google Collab.  
+- **Languages & Databases**: Python, Java, MYSQL.  
+- **Libraries**: NumPy, Pandas, Matplotlib.  
+- **Environment**: JupyterNotebook , PyCharm, MATLAB.

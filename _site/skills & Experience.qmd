@@ -1,0 +1,22 @@
+---
+title: "  🧰 Projects"
+---
+**Customer Data Analytics Dashboard**.  
+• Created an interactive dashboard during Business Analyst internship to track customer order trends and sales performance using Excel and Tableau. Enabled the sales team to identify key growth opportunities and optimize product promotions.   
+- 🔗 [View Dashboard](https://github.com/adiag321/Customer-Segementation-Analysis-for-Retail-Business-Tableau)
+
+**Inventory Management System Development (Capstone Project)**.  
+• Led the development of a web-based inventory management system during B.Tech final year project, improving tracking accuracy
+and stock replenishment processes. - Utilized Python and MySQL to automate inventory updates and generate real-time reports.   
+- 🔗 [View System](https://github.com/Hashan-Samarakkody/SwiftStock-Inventory_Management_System)
+
+**Revenue Forecasting Model**.  
+• Developed a time-series forecasting model using Prophet with <10% error margin, enabling accurate quarterly revenue projection and improving financial planning. Provides finance and leadership teams with accurate, data-driven forecasts for planning.   
+ - 🔗 [View Model](https://github.com/prathamesh693/Sales-and-Demand-Forecasting-for-Retail-Chains) 
+
+**House Rent Prediction Model**.  
+• Developed a time-series predicting model using Prophet with <20% error margin, enabling accurate quarterly revenue projection and improving financial planning. Provides finance and leadership teams with accurate, data-driven planning.   
+ - 🔗 [View Report](file:///Users/gayathripenmatcha/Downloads/ML-Report%20(1).pdf) 
+
+**Customer Segmentation Using Clustering**.  
+• Implemented RFM-based customer segmentation using K-Means clustering, boosting email campaign ROl by 25% through targeted outreach. Supports precision marketing, improves campaign performance, and increases customer retention.   

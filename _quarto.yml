@@ -1,0 +1,33 @@
+
+project:
+  type: website
+
+website:
+  title: "Gayathri Penmatcha"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: Skills & Experience.qmd
+        text: Skills & Experience
+      - href: CV.qmd
+        text: CV
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gayathri-penmatcha-588151349
+    style:   "sticky"            # stays at the top when you scroll
+    background: "#729572"      # name taken from the palette above
+    foreground: "#FFF7E6"          # good contrast for text/icons
+    collapse: true               # gives you the hamburger on mobile
+    search:   false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+    
+
+
